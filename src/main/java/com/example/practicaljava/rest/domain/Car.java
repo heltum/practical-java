@@ -11,6 +11,9 @@ public class Car {
 		this.color = color;
 		this.type = type;
 	}
+	
+	//public Car(){}
+	
 	public String getBrand() {
 		return brand;
 	}
